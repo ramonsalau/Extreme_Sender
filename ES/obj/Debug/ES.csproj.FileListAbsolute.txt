@@ -1,0 +1,12 @@
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\bin\Debug\ES.exe.config
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\bin\Debug\ES.exe
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\bin\Debug\ES.pdb
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.csprojResolveAssemblyReference.cache
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.Main.resources
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.Properties.Resources.resources
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.csproj.GenerateResource.Cache
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.exe
+c:\users\ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.pdb
+C:\Users\Ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.ChatControl.resources
+C:\Users\Ramon\documents\visual studio 2015\Projects\ES\ES\obj\Debug\ES.FileSenderControl.resources
+C:\Users\Ramon\documents\visual studio 2015\Projects\ES\ES\bin\Debug\Bunifu_UI_v1.5.3.dll
